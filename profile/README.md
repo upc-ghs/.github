@@ -1,4 +1,4 @@
-# Grup d'Hidrologia Subterrània - Hydrogeology Group
+## Grup d'Hidrologia Subterrània - Hydrogeology Group
 
 ![](profile/ghs.png)
 
